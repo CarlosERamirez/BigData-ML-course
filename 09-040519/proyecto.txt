@@ -1,0 +1,9 @@
+1. propón una solución para distribuir 10,000 policías a pie y 1000 patrullas
+2. cuál colonia tiene mayor probabilidad de ser, en el 2025, l más peligrosa por delitos graves
+3. propón un mecanismo para evaluar la estrategia de distribución de los efectivos a pie y las patrullas
+4. en qué colonia recomendarías instalar una sucursal de una empresa, basado en los mismos datos.
+
+Entregar documento con:
+objetivo
+plantemiento de la solución
+resultados
